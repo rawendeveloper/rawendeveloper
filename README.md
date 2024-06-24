@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rawen.ayedi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IO-BlXi6tOCc2i2Ycr1MlPhNq95MXpho/view?usp=sharing](https://drive.google.com/file/d/1IO-BlXi6tOCc2i2Ycr1MlPhNq95MXpho/view?usp=sharing)
+- 📄 Know about my experiences [https://rawen-ayedi-portfolio.vercel.app/project]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
