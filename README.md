@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rawen AYEDI</h1>
-<h3 align="center">I'm a second-year computer systems engineering student specializing in IoT. I bring technical skills, teamwork prowess, and a hunger for growth to your company. My skills span full stack development, Internet of Things, Data Analysis and ML</h3>
+<h3 align="center">Enthusiastic second-year computer systems engineering student with a focus on IoT, actively seeking an end-of-studies internship. I bring a strong foundation in full-stack development, IoT, data analysis, and machine learning, paired with a collaborative spirit and eagerness to grow professionally. My goal is to leverage my technical skills and passion for innovation to contribute meaningfully to your team and expand my expertise.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawendeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="rawendeveloper" /> </p>
 
