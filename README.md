@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rawen AYEDI</h1>
 <h3 align="center">
-🎓 **Computer Systems Engineering Graduate specialized in Embedded Systems & IoT <br>
-🎯 Currently pursuing an Engineering Degreee in Industrial Computer Systems (1st year) <br>
+🎓 Computer Systems Engineering Graduate specialized in Embedded Systems & IoT <br>
+🎯 Currently pursuing an Engineering Degree in Industrial Computer Systems (1st year) <br>
 💡 Passionate about IoT, Industry 4.0, ERP systems, and Industrial Integration wthi AI & ML <br>
 ⚡ Experienced in full-stack development, IoT deployment, and industrial system integration <br>
 🌍 I enjoy bridging hardware and software to deliver innovative, data-driven solutions <br>
