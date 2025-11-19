@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rawen AYEDI</h1>
 <h3 align="center">
-I am a <strong>Computer Systems Engineering graduate</strong> specialized in <strong>Embedded Systems and the Internet of Things (IoT)</strong>, currently pursuing a <strong>first-year Master's in Industrial Computer Engineering</strong>.  
-With a strong foundation in <strong>IoT, embedded systems, Industry 4.0 technologies, ERP systems, and industrial system integration</strong>, I enjoy bridging the gap between hardware and software to deliver innovative, data-driven solutions.  
-My experience spans <strong>full-stack development, IoT deployment, and industrial system integration</strong>, giving me a unique perspective on designing scalable, connected solutions for modern industries.  
-I am passionate about leveraging <strong>IoT and advanced technologies</strong> to optimize industrial processes, improve operational efficiency, and create meaningful impact.  
-I thrive in <strong>collaborative environments</strong>, where I can contribute my expertise while continuously learning from real-world challenges.
+🎓 **Computer Systems Engineering Graduate** specialized in **Embedded Systems & IoT** <br>
+🎯 Currently pursuing a **Master's in Industrial Computer Engineering** (1st year) <br>
+💡 Passionate about **IoT, Embedded Systems, Industry 4.0, ERP systems, and Industrial Integration** <br>
+⚡ Experienced in **full-stack development, IoT deployment, and industrial system integration** <br>
+🌍 I enjoy **bridging hardware and software** to deliver innovative, data-driven solutions <br>
+🤝 Thrive in **collaborative environments**, contributing expertise while continuously learning from real-world challenges
 </h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rawendeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="rawendeveloper" />
 </p>
